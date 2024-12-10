@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+    <link rel="stylesheet" href="./login.css">
+    <script src="./login.js" defer></script>
+    <link rel="icon" href="./kitty.png">
+</head>
+<body>
+    <video src="./snowfall.mp4" autoplay muted loop></video>
+    <div class="wrapper">
+        <form id="form">
+          <h1>Login</h1>
+          <div class="input-box">
+            <input type="email" placeholder="Username or Email" required class="check">
+            <img src="./user.png" id="user">
+          </div>
+          <div class="input-box">
+            <input type="password" placeholder="Password" required class="check" id="pas">
+            <img src="./visibility-off.png" id="eye" onclick="visible()">
+          </div>
+          <div class="remember-forgot">
+            <label><input type="checkbox">Remember Me</label>
+            <a href="#">Forgot Password</a>
+          </div>
+          <button type="button" id="btn" onclick="password()">Login</button>
+          <div class="register-link">
+            <p>Don't have an account? <a href="#">Register</a></p>
+            <span id="war"></span>
+          </div>
+        </form>
+      </div>    
+</body>
+</html>
