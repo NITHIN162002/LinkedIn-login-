@@ -3,7 +3,7 @@
 This project provides a simple login form with a password visibility toggle feature. It allows users to view and hide their password input and includes basic login validation for a predefined username and password.
 
 ## Features:
-- **Username and Password Validation**: A simple check is performed to verify the entered credentials (username: "pavan@outlook.com" and password: "Pavan@99").
+- **Username and Password Validation**: A simple check is performed to verify the entered credentials (username: "nithinvemana13@gmail.com" and password: "97056711@Nanu").
 - **Password Visibility Toggle**: Allows users to show or hide their password using an eye icon.
 - **Error Handling**: Displays an error message if the username or password is incorrect.
 - **Form Redirection**: Upon successful login, the user is redirected to a specified URL (e.g., LinkedIn profile) using the form's action.
