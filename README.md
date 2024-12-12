@@ -17,7 +17,7 @@ This project provides a simple login form with a password visibility toggle feat
 
 1. **Login Validation**:
    - The user enters their email and password.
-   - If the entered email is "pavan@outlook.com" and the password is "Pavan@99", the form redirects the user to the specified LinkedIn profile URL and submits the form.
+   - If the entered email is "nithinvemana13@gmail.com" and the password is "97056711@Nanu", the form redirects the user to the specified LinkedIn profile URL and submits the form.
    - If the credentials are incorrect, an error message is displayed below the form.
 
 2. **Password Visibility Toggle**:
